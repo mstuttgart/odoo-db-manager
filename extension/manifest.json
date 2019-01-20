@@ -1,6 +1,6 @@
 {
     "name": "Odoo Manager Database",
-    "version": "0.1.0",
+    "version": "1.0",
     "manifest_version": 2,
     "author": "Michell Stuttgart",
     "homepage_url": "https://github.com/mstuttgart/odoo-manager-extension",
