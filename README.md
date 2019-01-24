@@ -11,6 +11,18 @@
 <h4 align="center">This extension redirect tab to Database Selector and Database Manager Odoo pages</h4>
 
 <p align="center">
+  <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
+    <img src="https://img.shields.io/chrome-web-store/v/mfcpcmfdckoedbnlebbocchokkapdoce.svg?style=flat-square"         alt="Version">
+  </a>
+  <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
+    <img src="https://img.shields.io/chrome-web-store/users/mfcpcmfdckoedbnlebbocchokkapdoce.svg?style=flat-square" alt="Installs">
+  </a>
+  <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
+      <img src="https://img.shields.io/chrome-web-store/rating/mfcpcmfdckoedbnlebbocchokkapdoce.svg?style=flat-square" alt="Ratings">
+  </a>
+</p>
+
+<p align="center">
   <a href="#about">About</a> |
   <a href="#installation">Installation</a> |
   <a href="#usage">Usage</a> |
