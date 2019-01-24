@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=mstuttgart.odoo-snippets">
+  <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
   <img src="extension/assets/128.png"></a>
   <br>
   <br>
@@ -29,7 +29,7 @@ pages of Odoo. It can be used via mouse and keyboard shortcuts.
 
 ## Installation
 
-Install it from Chrome Web Store [here]().
+Install it from Chrome Web Store [here](https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon).
 
 ## Usage
 
