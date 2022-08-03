@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
-  <img src="extension/assets/128.png"></a>
+  <img src="extension/assets/256.png"></a>
   <br>
   <br>
   Odoo Database Extension
@@ -34,8 +34,8 @@
 
 Minimal and fast extension to redirect to: 
 
-* database manager: `mydomain/web/database/manager`
-* database selector: `mydomain/web/database/selector`
+* database manager: `odoodomain/web/database/manager`
+* database selector: `odoodomain/web/database/selector`
 
 pages of Odoo. It can be used via mouse and keyboard shortcuts.
 
@@ -61,4 +61,6 @@ See [changelog](CHANGELOG.md).
 
 This extension are based in [OdooDebug](https://github.com/pga-odoo/OdooDebug) and [OdooDebug](https://github.com/atularvind/OdooDebug) extensions.
 
-Copyright (C) 2019 by Michell Stuttgart
+Icons by [Elegant Circles Icon Set](https://dohliam.github.io/elegant-circles/?ref=iconduck.com)
+
+Copyright (C) 2019-2022 by Michell Stuttgart
