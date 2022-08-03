@@ -1,6 +1,6 @@
 {
     "name": "Odoo Manager Database",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 2,
     "author": "Michell Stuttgart",
     "homepage_url": "https://github.com/mstuttgart/odoo-manager-extension",
@@ -16,10 +16,7 @@
             "src/background.js"
         ]
     },
-    "permissions": [
-        "activeTab",
-        "webNavigation",
-        "*://*/*",
+    "permissions":[
         "tabs"
     ],
     "icons": {
@@ -37,7 +34,7 @@
                 "chromeos": "Ctrl+M",
                 "linux": "Ctrl+M"
             },
-             "description": "Toogle to Odoo Database Selecor/Manager page"
+             "description": "Toogle to Odoo Database Selector/Manager page"
         }
     }
 }
