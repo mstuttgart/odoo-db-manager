@@ -53,8 +53,8 @@ pages of Odoo. It can be used via mouse and keyboard shortcuts.
 
 ## Installation
 
-Install it from Chrome Web Store [here](https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon).
-Install it from Firefox Add-ons [here](https://addons.mozilla.org/pt-BR/firefox/addon/odoo-manager-database/).
+* Install it from Chrome Web Store [here](https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon).
+* Install it from Firefox Add-ons [here](https://addons.mozilla.org/pt-BR/firefox/addon/odoo-manager-database/).
 
 ## Usage
 
