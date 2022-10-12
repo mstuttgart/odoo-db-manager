@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
-  <img src="extension/assets/256.png"></a>
+  <img src="extension/assets/128.png"></a>
   <br>
   <br>
   Odoo Database Extension
@@ -12,13 +12,25 @@
 
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
-    <img src="https://img.shields.io/chrome-web-store/v/mfcpcmfdckoedbnlebbocchokkapdoce.svg?style=flat-square"         alt="Version">
+    <img src="https://img.shields.io/chrome-web-store/v/mfcpcmfdckoedbnlebbocchokkapdoce.svg?label=Chrome&color=76c2af&style=flat-square" alt="Version">
   </a>
   <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
-    <img src="https://img.shields.io/chrome-web-store/users/mfcpcmfdckoedbnlebbocchokkapdoce.svg?style=flat-square" alt="Installs">
+    <img src="https://img.shields.io/chrome-web-store/users/mfcpcmfdckoedbnlebbocchokkapdoce.svg?label=Install&color=76c2af&style=flat-square" alt="Installs">
   </a>
   <a href="https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon">
-      <img src="https://img.shields.io/chrome-web-store/rating/mfcpcmfdckoedbnlebbocchokkapdoce.svg?style=flat-square" alt="Ratings">
+      <img src="https://img.shields.io/chrome-web-store/rating/mfcpcmfdckoedbnlebbocchokkapdoce.svg?label=Rating&color=76c2af&style=flat-square" alt="Ratings">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/odoo-manager-database/">
+    <img src="https://img.shields.io/amo/v/odoo-manager-database.svg?label=Firefox&color=76c2af&style=flat-square" alt="Version">
+  </a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/odoo-manager-database/">
+    <img src="https://img.shields.io/amo/users/odoo-manager-database.svg?label=Install&color=76c2af&style=flat-square" alt="Installs">
+  </a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/odoo-manager-database/">
+      <img src="https://img.shields.io/amo/rating/odoo-manager-database.svg?label=Rating&color=76c2af&style=flat-square" alt="Ratings">
   </a>
 </p>
 
@@ -42,6 +54,7 @@ pages of Odoo. It can be used via mouse and keyboard shortcuts.
 ## Installation
 
 Install it from Chrome Web Store [here](https://chrome.google.com/webstore/detail/odoo-manager-database/mfcpcmfdckoedbnlebbocchokkapdoce?utm_source=chrome-ntp-icon).
+Install it from Firefox Add-ons [here](https://addons.mozilla.org/pt-BR/firefox/addon/odoo-manager-database/).
 
 ## Usage
 
