@@ -1,20 +1,18 @@
 {
     "name": "Odoo Manager Database",
-    "version": "2.1",
-    "manifest_version": 2,
+    "version": "2.2",
+    "manifest_version": 3,
     "author": "Michell Stuttgart",
     "homepage_url": "https://github.com/mstuttgart/odoo-manager-extension",
     "description": "Redirect to Database Selector/Manager Odoo webpage",
     "short_name": "Odoo Manager Database",
     "offline_enabled" : true,
-    "browser_action": {
+    "action": {
         "default_icon": "assets/128.png",
         "default_title": "- Click for Database Selector page \n- Double Click for Database Manager page"
     },
     "background": {
-        "scripts": [
-            "src/background.js"
-        ]
+        "service_worker": "src/background.js"
     },
     "permissions":[
         "tabs"
@@ -26,7 +24,7 @@
         "128": "assets/128.png"
     },
     "commands": {
-        "_execute_browser_action":{
+        "_execute_action":{
             "suggested_key":{
                 "default": "Ctrl+M",
                 "windows": "Ctrl+M",
